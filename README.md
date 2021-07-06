@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @razasayed
-- 👀 I’m interested in golang, elixir, ruby, python and javascript
+- 👀 I’m a polyglot interested in golang, elixir, ruby, python and javascript
 - 📫 How to reach me: https://razasayed.dev, https://twitter.com/razasayed
 
 <!---
